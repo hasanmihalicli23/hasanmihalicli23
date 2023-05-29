@@ -1,3 +1,4 @@
+<img align="center" src="https://i.pinimg.com/564x/1a/a2/d5/1aa2d5dcf28fed0410229c61c3bc4e79.jpg" alt="hasanmihalicli23" height="191px" width="1128px" />
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate data science student from Türkiye</h3>
 
