@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasan</h1>
+<h1>Hi, I'm Hasan</h1>
 
 * 🌍  I'm based in **Bursa**
 
