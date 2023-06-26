@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in **Bursa**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Backend Technology**
 
 - 💬 Ask me about **Python**
 
