@@ -2,9 +2,7 @@
 
 * 🌍  I'm based in **Bursa**
 
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **Web Programming**
+- 🌱 I’m currently learning **Development**
 
 - ✉️  You can contact me at [hasanmihalicli23@gmail.com](mailto:hasanmihalicli23@gmail.com)
 
