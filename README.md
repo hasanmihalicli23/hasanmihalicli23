@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">Mechanical Engineer & Developer | Automating Manufacturing Processes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmihalicli23&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmihalicli23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanmihalicli23" alt="hasanmihalicli23" /></a> </p>
-
 - 🔭 I’m currently working on **Industrial Cost Estimation & Proposal Automation Tools**
 
 - 🌱 I’m currently learning **Data Analysis, SolidWorks API, SQL and Advanced Python**
