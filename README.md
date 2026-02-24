@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, SolidWorks, Manufacturing Processes, and Automation**
 
-- 📫 How to reach me **hasanmihalicli23@gmail.com**
+- 📫 How to reach me **mail@hasanmihalicli.com**
 
 - ⚡ Fun fact **I write code to make machines and engineers work smarter, not harder.**
 
